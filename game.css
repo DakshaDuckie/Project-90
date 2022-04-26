@@ -58,7 +58,3 @@ button{
 input:hover{
 	background-color: rgb(193, 179, 235);
 }
-div:hover{
-	border: 5px solid rgb(102, 6, 73);
-	width: 35%;
-}
